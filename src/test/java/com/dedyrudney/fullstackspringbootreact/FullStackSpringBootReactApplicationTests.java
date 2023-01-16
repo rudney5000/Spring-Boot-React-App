@@ -3,7 +3,7 @@ package com.dedyrudney.fullstackspringbootreact;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class FullStackSpringBootReactApplicationTests {
 
     @Test

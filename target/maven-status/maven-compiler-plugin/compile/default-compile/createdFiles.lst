@@ -1,8 +1,0 @@
-com\dedyrudney\fullstackspringbootreact\student\exception\BadRequestException.class
-com\dedyrudney\fullstackspringbootreact\FullStackSpringBootReactApplication.class
-com\dedyrudney\fullstackspringbootreact\student\exception\StudentNotFoundException.class
-com\dedyrudney\fullstackspringbootreact\student\StudentRepository.class
-com\dedyrudney\fullstackspringbootreact\student\StudentController.class
-com\dedyrudney\fullstackspringbootreact\student\Gender.class
-com\dedyrudney\fullstackspringbootreact\student\StudentService.class
-com\dedyrudney\fullstackspringbootreact\student\Student.class
